@@ -1,0 +1,1496 @@
+{
+  "@type": "ProductDetailsPage",
+  "breadcrumbList": {
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "name": "Masculino",
+        "item": "http://oficinareserva.deco.site/masculino",
+        "position": 1
+      },
+      {
+        "@type": "ListItem",
+        "name": "Polos",
+        "item": "http://oficinareserva.deco.site/masculino/polos",
+        "position": 2
+      },
+      {
+        "@type": "ListItem",
+        "name": "Camisa Polo Gray",
+        "item": "http://oficinareserva.deco.site/camisa-polo-masculina-gray/p",
+        "position": 3
+      }
+    ],
+    "numberOfItems": 3
+  },
+  "product": {
+    "@type": "Product",
+    "category": "Masculino>Polos",
+    "productID": "221",
+    "url": "http://oficinareserva.deco.site/camisa-polo-masculina-gray/p?skuId=221",
+    "name": "Camisa Polo Gray PP",
+    "description": "A Melhor Camisa Polo Masculina Gray",
+    "brand": {
+      "@type": "Brand",
+      "@id": "2000000",
+      "name": "VTEX Fashion"
+    },
+    "inProductGroupWithID": "46",
+    "sku": "221",
+    "gtin": "789456123004601",
+    "releaseDate": 1622419200000,
+    "additionalProperty": [
+      {
+        "@type": "PropertyValue",
+        "name": "TAMANHO",
+        "value": "PP",
+        "valueReference": "SPECIFICATION"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "category",
+        "propertyID": "1",
+        "value": "Masculino"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "category",
+        "propertyID": "3",
+        "value": "Polos"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "cluster",
+        "value": "Casual",
+        "propertyID": "138"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "cluster",
+        "value": "Polos",
+        "propertyID": "140"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "cluster",
+        "value": "Todos os produtos",
+        "propertyID": "156"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "cluster",
+        "value": "Polos Masculinas",
+        "propertyID": "159"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "RefId",
+        "value": "356",
+        "valueReference": "ReferenceID"
+      }
+    ],
+    "isVariantOf": {
+      "@type": "ProductGroup",
+      "productGroupID": "46",
+      "hasVariant": [
+        {
+          "@type": "Product",
+          "category": "Masculino>Polos",
+          "productID": "221",
+          "url": "http://oficinareserva.deco.site/camisa-polo-masculina-gray/p?skuId=221",
+          "name": "Camisa Polo Gray PP",
+          "description": "A Melhor Camisa Polo Masculina Gray",
+          "brand": {
+            "@type": "Brand",
+            "@id": "2000000",
+            "name": "VTEX Fashion"
+          },
+          "inProductGroupWithID": "46",
+          "sku": "221",
+          "gtin": "789456123004601",
+          "releaseDate": 1622419200000,
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "TAMANHO",
+              "value": "PP",
+              "valueReference": "SPECIFICATION"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "category",
+              "propertyID": "1",
+              "value": "Masculino"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "category",
+              "propertyID": "3",
+              "value": "Polos"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "cluster",
+              "value": "Casual",
+              "propertyID": "138"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "cluster",
+              "value": "Polos",
+              "propertyID": "140"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "cluster",
+              "value": "Todos os produtos",
+              "propertyID": "156"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "cluster",
+              "value": "Polos Masculinas",
+              "propertyID": "159"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "RefId",
+              "value": "356",
+              "valueReference": "ReferenceID"
+            }
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "alternateName": "Camisa Polo Masculina Cinza",
+              "url": "https://bravtexfashionstore.vtexassets.com/arquivos/ids/155738/camisa-polo-masculina-cinza.jpg?v=637685629059370000",
+              "name": "Camisa Polo Masculina Cinza",
+              "encodingFormat": "image"
+            }
+          ],
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "BRL",
+            "highPrice": 83.3,
+            "lowPrice": 83.3,
+            "offerCount": 1,
+            "offers": [
+              {
+                "@type": "Offer",
+                "price": 83.3,
+                "seller": "1",
+                "sellerName": "VTEX",
+                "priceValidUntil": "2025-07-24T23:10:24Z",
+                "inventoryLevel": {
+                  "value": 10000
+                },
+                "giftSkuIds": [],
+                "teasers": [],
+                "priceSpecification": [
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/ListPrice",
+                    "price": 219
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SRP",
+                    "price": 119
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Visa",
+                    "description": "Visa à vista",
+                    "billingDuration": 1,
+                    "billingIncrement": 83.3,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Mastercard",
+                    "description": "Mastercard à vista",
+                    "billingDuration": 1,
+                    "billingIncrement": 83.3,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Promissory",
+                    "description": "Promissory à vista",
+                    "billingDuration": 1,
+                    "billingIncrement": 83.3,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Pix",
+                    "description": "Pix à vista",
+                    "billingDuration": 1,
+                    "billingIncrement": 83.3,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Cartão VTEX Fashion",
+                    "description": "Cartão VTEX Fashion à vista",
+                    "billingDuration": 1,
+                    "billingIncrement": 83.3,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Cartão VTEX Fashion",
+                    "description": "Cartão VTEX Fashion 2 vezes sem juros",
+                    "billingDuration": 2,
+                    "billingIncrement": 41.65,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Cartão VTEX Fashion",
+                    "description": "Cartão VTEX Fashion 3 vezes sem juros",
+                    "billingDuration": 3,
+                    "billingIncrement": 27.76,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Cartão VTEX Fashion",
+                    "description": "Cartão VTEX Fashion 4 vezes sem juros",
+                    "billingDuration": 4,
+                    "billingIncrement": 20.82,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Cartão VTEX Fashion",
+                    "description": "Cartão VTEX Fashion 5 vezes sem juros",
+                    "billingDuration": 5,
+                    "billingIncrement": 16.66,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Cartão VTEX Fashion",
+                    "description": "Cartão VTEX Fashion 6 vezes sem juros",
+                    "billingDuration": 6,
+                    "billingIncrement": 13.88,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Cartão VTEX Fashion",
+                    "description": "Cartão VTEX Fashion 7 vezes sem juros",
+                    "billingDuration": 7,
+                    "billingIncrement": 11.9,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Cartão VTEX Fashion",
+                    "description": "Cartão VTEX Fashion 8 vezes sem juros",
+                    "billingDuration": 8,
+                    "billingIncrement": 10.41,
+                    "price": 83.3
+                  }
+                ],
+                "availability": "https://schema.org/InStock"
+              }
+            ]
+          }
+        },
+        {
+          "@type": "Product",
+          "category": "Masculino>Polos",
+          "productID": "222",
+          "url": "http://oficinareserva.deco.site/camisa-polo-masculina-gray/p?skuId=222",
+          "name": "Camisa Polo Gray P",
+          "description": "A Melhor Camisa Polo Masculina Gray",
+          "brand": {
+            "@type": "Brand",
+            "@id": "2000000",
+            "name": "VTEX Fashion"
+          },
+          "inProductGroupWithID": "46",
+          "sku": "222",
+          "gtin": "789456123004602",
+          "releaseDate": 1622419200000,
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "TAMANHO",
+              "value": "P",
+              "valueReference": "SPECIFICATION"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "category",
+              "propertyID": "1",
+              "value": "Masculino"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "category",
+              "propertyID": "3",
+              "value": "Polos"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "cluster",
+              "value": "Casual",
+              "propertyID": "138"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "cluster",
+              "value": "Polos",
+              "propertyID": "140"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "cluster",
+              "value": "Todos os produtos",
+              "propertyID": "156"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "cluster",
+              "value": "Polos Masculinas",
+              "propertyID": "159"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "RefId",
+              "value": "357",
+              "valueReference": "ReferenceID"
+            }
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "alternateName": "Camisa Polo Masculina Cinza",
+              "url": "https://bravtexfashionstore.vtexassets.com/arquivos/ids/155739/camisa-polo-masculina-cinza.jpg?v=637685629066300000",
+              "name": "Camisa Polo Masculina Cinza",
+              "encodingFormat": "image"
+            }
+          ],
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "BRL",
+            "highPrice": 83.3,
+            "lowPrice": 83.3,
+            "offerCount": 1,
+            "offers": [
+              {
+                "@type": "Offer",
+                "price": 83.3,
+                "seller": "1",
+                "sellerName": "VTEX",
+                "priceValidUntil": "2025-07-24T23:10:24Z",
+                "inventoryLevel": {
+                  "value": 10000
+                },
+                "giftSkuIds": [],
+                "teasers": [],
+                "priceSpecification": [
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/ListPrice",
+                    "price": 219
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SRP",
+                    "price": 119
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Visa",
+                    "description": "Visa à vista",
+                    "billingDuration": 1,
+                    "billingIncrement": 83.3,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Mastercard",
+                    "description": "Mastercard à vista",
+                    "billingDuration": 1,
+                    "billingIncrement": 83.3,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Promissory",
+                    "description": "Promissory à vista",
+                    "billingDuration": 1,
+                    "billingIncrement": 83.3,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Pix",
+                    "description": "Pix à vista",
+                    "billingDuration": 1,
+                    "billingIncrement": 83.3,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Cartão VTEX Fashion",
+                    "description": "Cartão VTEX Fashion à vista",
+                    "billingDuration": 1,
+                    "billingIncrement": 83.3,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Cartão VTEX Fashion",
+                    "description": "Cartão VTEX Fashion 2 vezes sem juros",
+                    "billingDuration": 2,
+                    "billingIncrement": 41.65,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Cartão VTEX Fashion",
+                    "description": "Cartão VTEX Fashion 3 vezes sem juros",
+                    "billingDuration": 3,
+                    "billingIncrement": 27.76,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Cartão VTEX Fashion",
+                    "description": "Cartão VTEX Fashion 4 vezes sem juros",
+                    "billingDuration": 4,
+                    "billingIncrement": 20.82,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Cartão VTEX Fashion",
+                    "description": "Cartão VTEX Fashion 5 vezes sem juros",
+                    "billingDuration": 5,
+                    "billingIncrement": 16.66,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Cartão VTEX Fashion",
+                    "description": "Cartão VTEX Fashion 6 vezes sem juros",
+                    "billingDuration": 6,
+                    "billingIncrement": 13.88,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Cartão VTEX Fashion",
+                    "description": "Cartão VTEX Fashion 7 vezes sem juros",
+                    "billingDuration": 7,
+                    "billingIncrement": 11.9,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Cartão VTEX Fashion",
+                    "description": "Cartão VTEX Fashion 8 vezes sem juros",
+                    "billingDuration": 8,
+                    "billingIncrement": 10.41,
+                    "price": 83.3
+                  }
+                ],
+                "availability": "https://schema.org/InStock"
+              }
+            ]
+          }
+        },
+        {
+          "@type": "Product",
+          "category": "Masculino>Polos",
+          "productID": "223",
+          "url": "http://oficinareserva.deco.site/camisa-polo-masculina-gray/p?skuId=223",
+          "name": "Camisa Polo Gray M",
+          "description": "A Melhor Camisa Polo Masculina Gray",
+          "brand": {
+            "@type": "Brand",
+            "@id": "2000000",
+            "name": "VTEX Fashion"
+          },
+          "inProductGroupWithID": "46",
+          "sku": "223",
+          "gtin": "789456123004603",
+          "releaseDate": 1622419200000,
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "TAMANHO",
+              "value": "M",
+              "valueReference": "SPECIFICATION"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "category",
+              "propertyID": "1",
+              "value": "Masculino"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "category",
+              "propertyID": "3",
+              "value": "Polos"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "cluster",
+              "value": "Casual",
+              "propertyID": "138"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "cluster",
+              "value": "Polos",
+              "propertyID": "140"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "cluster",
+              "value": "Todos os produtos",
+              "propertyID": "156"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "cluster",
+              "value": "Polos Masculinas",
+              "propertyID": "159"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "RefId",
+              "value": "358",
+              "valueReference": "ReferenceID"
+            }
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "alternateName": "Camisa Polo Masculina Cinza",
+              "url": "https://bravtexfashionstore.vtexassets.com/arquivos/ids/155740/camisa-polo-masculina-cinza.jpg?v=637685629076800000",
+              "name": "Camisa Polo Masculina Cinza",
+              "encodingFormat": "image"
+            }
+          ],
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "BRL",
+            "highPrice": 83.3,
+            "lowPrice": 83.3,
+            "offerCount": 1,
+            "offers": [
+              {
+                "@type": "Offer",
+                "price": 83.3,
+                "seller": "1",
+                "sellerName": "VTEX",
+                "priceValidUntil": "2025-07-24T23:10:24Z",
+                "inventoryLevel": {
+                  "value": 10000
+                },
+                "giftSkuIds": [],
+                "teasers": [],
+                "priceSpecification": [
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/ListPrice",
+                    "price": 219
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SRP",
+                    "price": 119
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Visa",
+                    "description": "Visa à vista",
+                    "billingDuration": 1,
+                    "billingIncrement": 83.3,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Mastercard",
+                    "description": "Mastercard à vista",
+                    "billingDuration": 1,
+                    "billingIncrement": 83.3,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Promissory",
+                    "description": "Promissory à vista",
+                    "billingDuration": 1,
+                    "billingIncrement": 83.3,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Pix",
+                    "description": "Pix à vista",
+                    "billingDuration": 1,
+                    "billingIncrement": 83.3,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Cartão VTEX Fashion",
+                    "description": "Cartão VTEX Fashion à vista",
+                    "billingDuration": 1,
+                    "billingIncrement": 83.3,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Cartão VTEX Fashion",
+                    "description": "Cartão VTEX Fashion 2 vezes sem juros",
+                    "billingDuration": 2,
+                    "billingIncrement": 41.65,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Cartão VTEX Fashion",
+                    "description": "Cartão VTEX Fashion 3 vezes sem juros",
+                    "billingDuration": 3,
+                    "billingIncrement": 27.76,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Cartão VTEX Fashion",
+                    "description": "Cartão VTEX Fashion 4 vezes sem juros",
+                    "billingDuration": 4,
+                    "billingIncrement": 20.82,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Cartão VTEX Fashion",
+                    "description": "Cartão VTEX Fashion 5 vezes sem juros",
+                    "billingDuration": 5,
+                    "billingIncrement": 16.66,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Cartão VTEX Fashion",
+                    "description": "Cartão VTEX Fashion 6 vezes sem juros",
+                    "billingDuration": 6,
+                    "billingIncrement": 13.88,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Cartão VTEX Fashion",
+                    "description": "Cartão VTEX Fashion 7 vezes sem juros",
+                    "billingDuration": 7,
+                    "billingIncrement": 11.9,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Cartão VTEX Fashion",
+                    "description": "Cartão VTEX Fashion 8 vezes sem juros",
+                    "billingDuration": 8,
+                    "billingIncrement": 10.41,
+                    "price": 83.3
+                  }
+                ],
+                "availability": "https://schema.org/InStock"
+              }
+            ]
+          }
+        },
+        {
+          "@type": "Product",
+          "category": "Masculino>Polos",
+          "productID": "224",
+          "url": "http://oficinareserva.deco.site/camisa-polo-masculina-gray/p?skuId=224",
+          "name": "Camisa Polo Gray G",
+          "description": "A Melhor Camisa Polo Masculina Gray",
+          "brand": {
+            "@type": "Brand",
+            "@id": "2000000",
+            "name": "VTEX Fashion"
+          },
+          "inProductGroupWithID": "46",
+          "sku": "224",
+          "gtin": "789456123004604",
+          "releaseDate": 1622419200000,
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "TAMANHO",
+              "value": "G",
+              "valueReference": "SPECIFICATION"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "category",
+              "propertyID": "1",
+              "value": "Masculino"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "category",
+              "propertyID": "3",
+              "value": "Polos"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "cluster",
+              "value": "Casual",
+              "propertyID": "138"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "cluster",
+              "value": "Polos",
+              "propertyID": "140"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "cluster",
+              "value": "Todos os produtos",
+              "propertyID": "156"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "cluster",
+              "value": "Polos Masculinas",
+              "propertyID": "159"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "RefId",
+              "value": "359",
+              "valueReference": "ReferenceID"
+            }
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "alternateName": "Camisa Polo Masculina Cinza",
+              "url": "https://bravtexfashionstore.vtexassets.com/arquivos/ids/155741/camisa-polo-masculina-cinza.jpg?v=637685629081170000",
+              "name": "Camisa Polo Masculina Cinza",
+              "encodingFormat": "image"
+            }
+          ],
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "BRL",
+            "highPrice": 83.3,
+            "lowPrice": 83.3,
+            "offerCount": 1,
+            "offers": [
+              {
+                "@type": "Offer",
+                "price": 83.3,
+                "seller": "1",
+                "sellerName": "VTEX",
+                "priceValidUntil": "2025-07-24T23:10:24Z",
+                "inventoryLevel": {
+                  "value": 10000
+                },
+                "giftSkuIds": [],
+                "teasers": [],
+                "priceSpecification": [
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/ListPrice",
+                    "price": 219
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SRP",
+                    "price": 119
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Visa",
+                    "description": "Visa à vista",
+                    "billingDuration": 1,
+                    "billingIncrement": 83.3,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Mastercard",
+                    "description": "Mastercard à vista",
+                    "billingDuration": 1,
+                    "billingIncrement": 83.3,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Promissory",
+                    "description": "Promissory à vista",
+                    "billingDuration": 1,
+                    "billingIncrement": 83.3,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Pix",
+                    "description": "Pix à vista",
+                    "billingDuration": 1,
+                    "billingIncrement": 83.3,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Cartão VTEX Fashion",
+                    "description": "Cartão VTEX Fashion à vista",
+                    "billingDuration": 1,
+                    "billingIncrement": 83.3,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Cartão VTEX Fashion",
+                    "description": "Cartão VTEX Fashion 2 vezes sem juros",
+                    "billingDuration": 2,
+                    "billingIncrement": 41.65,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Cartão VTEX Fashion",
+                    "description": "Cartão VTEX Fashion 3 vezes sem juros",
+                    "billingDuration": 3,
+                    "billingIncrement": 27.76,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Cartão VTEX Fashion",
+                    "description": "Cartão VTEX Fashion 4 vezes sem juros",
+                    "billingDuration": 4,
+                    "billingIncrement": 20.82,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Cartão VTEX Fashion",
+                    "description": "Cartão VTEX Fashion 5 vezes sem juros",
+                    "billingDuration": 5,
+                    "billingIncrement": 16.66,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Cartão VTEX Fashion",
+                    "description": "Cartão VTEX Fashion 6 vezes sem juros",
+                    "billingDuration": 6,
+                    "billingIncrement": 13.88,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Cartão VTEX Fashion",
+                    "description": "Cartão VTEX Fashion 7 vezes sem juros",
+                    "billingDuration": 7,
+                    "billingIncrement": 11.9,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Cartão VTEX Fashion",
+                    "description": "Cartão VTEX Fashion 8 vezes sem juros",
+                    "billingDuration": 8,
+                    "billingIncrement": 10.41,
+                    "price": 83.3
+                  }
+                ],
+                "availability": "https://schema.org/InStock"
+              }
+            ]
+          }
+        },
+        {
+          "@type": "Product",
+          "category": "Masculino>Polos",
+          "productID": "225",
+          "url": "http://oficinareserva.deco.site/camisa-polo-masculina-gray/p?skuId=225",
+          "name": "Camisa Polo Gray GG",
+          "description": "A Melhor Camisa Polo Masculina Gray",
+          "brand": {
+            "@type": "Brand",
+            "@id": "2000000",
+            "name": "VTEX Fashion"
+          },
+          "inProductGroupWithID": "46",
+          "sku": "225",
+          "gtin": "789456123004605",
+          "releaseDate": 1622419200000,
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "TAMANHO",
+              "value": "GG",
+              "valueReference": "SPECIFICATION"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "category",
+              "propertyID": "1",
+              "value": "Masculino"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "category",
+              "propertyID": "3",
+              "value": "Polos"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "cluster",
+              "value": "Casual",
+              "propertyID": "138"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "cluster",
+              "value": "Polos",
+              "propertyID": "140"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "cluster",
+              "value": "Todos os produtos",
+              "propertyID": "156"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "cluster",
+              "value": "Polos Masculinas",
+              "propertyID": "159"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "RefId",
+              "value": "360",
+              "valueReference": "ReferenceID"
+            }
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "alternateName": "Camisa Polo Masculina Cinza",
+              "url": "https://bravtexfashionstore.vtexassets.com/arquivos/ids/155742/camisa-polo-masculina-cinza.jpg?v=637685629086370000",
+              "name": "Camisa Polo Masculina Cinza",
+              "encodingFormat": "image"
+            }
+          ],
+          "offers": {
+            "@type": "AggregateOffer",
+            "priceCurrency": "BRL",
+            "highPrice": 83.3,
+            "lowPrice": 83.3,
+            "offerCount": 1,
+            "offers": [
+              {
+                "@type": "Offer",
+                "price": 83.3,
+                "seller": "1",
+                "sellerName": "VTEX",
+                "priceValidUntil": "2025-07-24T23:10:24Z",
+                "inventoryLevel": {
+                  "value": 10000
+                },
+                "giftSkuIds": [],
+                "teasers": [],
+                "priceSpecification": [
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/ListPrice",
+                    "price": 219
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SRP",
+                    "price": 119
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Visa",
+                    "description": "Visa à vista",
+                    "billingDuration": 1,
+                    "billingIncrement": 83.3,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Mastercard",
+                    "description": "Mastercard à vista",
+                    "billingDuration": 1,
+                    "billingIncrement": 83.3,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Promissory",
+                    "description": "Promissory à vista",
+                    "billingDuration": 1,
+                    "billingIncrement": 83.3,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Pix",
+                    "description": "Pix à vista",
+                    "billingDuration": 1,
+                    "billingIncrement": 83.3,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Cartão VTEX Fashion",
+                    "description": "Cartão VTEX Fashion à vista",
+                    "billingDuration": 1,
+                    "billingIncrement": 83.3,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Cartão VTEX Fashion",
+                    "description": "Cartão VTEX Fashion 2 vezes sem juros",
+                    "billingDuration": 2,
+                    "billingIncrement": 41.65,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Cartão VTEX Fashion",
+                    "description": "Cartão VTEX Fashion 3 vezes sem juros",
+                    "billingDuration": 3,
+                    "billingIncrement": 27.76,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Cartão VTEX Fashion",
+                    "description": "Cartão VTEX Fashion 4 vezes sem juros",
+                    "billingDuration": 4,
+                    "billingIncrement": 20.82,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Cartão VTEX Fashion",
+                    "description": "Cartão VTEX Fashion 5 vezes sem juros",
+                    "billingDuration": 5,
+                    "billingIncrement": 16.66,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Cartão VTEX Fashion",
+                    "description": "Cartão VTEX Fashion 6 vezes sem juros",
+                    "billingDuration": 6,
+                    "billingIncrement": 13.88,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Cartão VTEX Fashion",
+                    "description": "Cartão VTEX Fashion 7 vezes sem juros",
+                    "billingDuration": 7,
+                    "billingIncrement": 11.9,
+                    "price": 83.3
+                  },
+                  {
+                    "@type": "UnitPriceSpecification",
+                    "priceType": "https://schema.org/SalePrice",
+                    "priceComponentType": "https://schema.org/Installment",
+                    "name": "Cartão VTEX Fashion",
+                    "description": "Cartão VTEX Fashion 8 vezes sem juros",
+                    "billingDuration": 8,
+                    "billingIncrement": 10.41,
+                    "price": 83.3
+                  }
+                ],
+                "availability": "https://schema.org/InStock"
+              }
+            ]
+          }
+        }
+      ],
+      "url": "http://oficinareserva.deco.site/camisa-polo-masculina-gray/p",
+      "name": "Camisa Polo Gray",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Cor",
+          "value": "CINZA",
+          "valueReference": "PROPERTY"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "TAMANHO",
+          "value": "PP",
+          "valueReference": "PROPERTY"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "TAMANHO",
+          "value": "P",
+          "valueReference": "PROPERTY"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "TAMANHO",
+          "value": "M",
+          "valueReference": "PROPERTY"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "TAMANHO",
+          "value": "G",
+          "valueReference": "PROPERTY"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "TAMANHO",
+          "value": "GG",
+          "valueReference": "PROPERTY"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "sellerId",
+          "value": "1",
+          "valueReference": "PROPERTY"
+        }
+      ],
+      "model": ""
+    },
+    "image": [
+      {
+        "@type": "ImageObject",
+        "alternateName": "Camisa Polo Masculina Cinza",
+        "url": "https://bravtexfashionstore.vtexassets.com/arquivos/ids/155738/camisa-polo-masculina-cinza.jpg?v=637685629059370000",
+        "name": "Camisa Polo Masculina Cinza",
+        "encodingFormat": "image"
+      }
+    ],
+    "offers": {
+      "@type": "AggregateOffer",
+      "priceCurrency": "BRL",
+      "highPrice": 83.3,
+      "lowPrice": 83.3,
+      "offerCount": 1,
+      "offers": [
+        {
+          "@type": "Offer",
+          "price": 83.3,
+          "seller": "1",
+          "sellerName": "VTEX",
+          "priceValidUntil": "2025-07-24T23:10:24Z",
+          "inventoryLevel": {
+            "value": 10000
+          },
+          "giftSkuIds": [],
+          "teasers": [],
+          "priceSpecification": [
+            {
+              "@type": "UnitPriceSpecification",
+              "priceType": "https://schema.org/ListPrice",
+              "price": 219
+            },
+            {
+              "@type": "UnitPriceSpecification",
+              "priceType": "https://schema.org/SalePrice",
+              "price": 83.3
+            },
+            {
+              "@type": "UnitPriceSpecification",
+              "priceType": "https://schema.org/SRP",
+              "price": 119
+            },
+            {
+              "@type": "UnitPriceSpecification",
+              "priceType": "https://schema.org/SalePrice",
+              "priceComponentType": "https://schema.org/Installment",
+              "name": "Visa",
+              "description": "Visa à vista",
+              "billingDuration": 1,
+              "billingIncrement": 83.3,
+              "price": 83.3
+            },
+            {
+              "@type": "UnitPriceSpecification",
+              "priceType": "https://schema.org/SalePrice",
+              "priceComponentType": "https://schema.org/Installment",
+              "name": "Mastercard",
+              "description": "Mastercard à vista",
+              "billingDuration": 1,
+              "billingIncrement": 83.3,
+              "price": 83.3
+            },
+            {
+              "@type": "UnitPriceSpecification",
+              "priceType": "https://schema.org/SalePrice",
+              "priceComponentType": "https://schema.org/Installment",
+              "name": "Promissory",
+              "description": "Promissory à vista",
+              "billingDuration": 1,
+              "billingIncrement": 83.3,
+              "price": 83.3
+            },
+            {
+              "@type": "UnitPriceSpecification",
+              "priceType": "https://schema.org/SalePrice",
+              "priceComponentType": "https://schema.org/Installment",
+              "name": "Pix",
+              "description": "Pix à vista",
+              "billingDuration": 1,
+              "billingIncrement": 83.3,
+              "price": 83.3
+            },
+            {
+              "@type": "UnitPriceSpecification",
+              "priceType": "https://schema.org/SalePrice",
+              "priceComponentType": "https://schema.org/Installment",
+              "name": "Cartão VTEX Fashion",
+              "description": "Cartão VTEX Fashion à vista",
+              "billingDuration": 1,
+              "billingIncrement": 83.3,
+              "price": 83.3
+            },
+            {
+              "@type": "UnitPriceSpecification",
+              "priceType": "https://schema.org/SalePrice",
+              "priceComponentType": "https://schema.org/Installment",
+              "name": "Cartão VTEX Fashion",
+              "description": "Cartão VTEX Fashion 2 vezes sem juros",
+              "billingDuration": 2,
+              "billingIncrement": 41.65,
+              "price": 83.3
+            },
+            {
+              "@type": "UnitPriceSpecification",
+              "priceType": "https://schema.org/SalePrice",
+              "priceComponentType": "https://schema.org/Installment",
+              "name": "Cartão VTEX Fashion",
+              "description": "Cartão VTEX Fashion 3 vezes sem juros",
+              "billingDuration": 3,
+              "billingIncrement": 27.76,
+              "price": 83.3
+            },
+            {
+              "@type": "UnitPriceSpecification",
+              "priceType": "https://schema.org/SalePrice",
+              "priceComponentType": "https://schema.org/Installment",
+              "name": "Cartão VTEX Fashion",
+              "description": "Cartão VTEX Fashion 4 vezes sem juros",
+              "billingDuration": 4,
+              "billingIncrement": 20.82,
+              "price": 83.3
+            },
+            {
+              "@type": "UnitPriceSpecification",
+              "priceType": "https://schema.org/SalePrice",
+              "priceComponentType": "https://schema.org/Installment",
+              "name": "Cartão VTEX Fashion",
+              "description": "Cartão VTEX Fashion 5 vezes sem juros",
+              "billingDuration": 5,
+              "billingIncrement": 16.66,
+              "price": 83.3
+            },
+            {
+              "@type": "UnitPriceSpecification",
+              "priceType": "https://schema.org/SalePrice",
+              "priceComponentType": "https://schema.org/Installment",
+              "name": "Cartão VTEX Fashion",
+              "description": "Cartão VTEX Fashion 6 vezes sem juros",
+              "billingDuration": 6,
+              "billingIncrement": 13.88,
+              "price": 83.3
+            },
+            {
+              "@type": "UnitPriceSpecification",
+              "priceType": "https://schema.org/SalePrice",
+              "priceComponentType": "https://schema.org/Installment",
+              "name": "Cartão VTEX Fashion",
+              "description": "Cartão VTEX Fashion 7 vezes sem juros",
+              "billingDuration": 7,
+              "billingIncrement": 11.9,
+              "price": 83.3
+            },
+            {
+              "@type": "UnitPriceSpecification",
+              "priceType": "https://schema.org/SalePrice",
+              "priceComponentType": "https://schema.org/Installment",
+              "name": "Cartão VTEX Fashion",
+              "description": "Cartão VTEX Fashion 8 vezes sem juros",
+              "billingDuration": 8,
+              "billingIncrement": 10.41,
+              "price": 83.3
+            }
+          ],
+          "availability": "https://schema.org/InStock"
+        }
+      ]
+    }
+  },
+  "seo": {
+    "title": "A Melhor Camisa Polo Masculina Gray",
+    "description": "A Melhor Camisa Polo Masculina Gray",
+    "noIndexing": false,
+    "canonical": "http://oficinareserva.deco.site/camisa-polo-masculina-gray/p"
+  }
+}

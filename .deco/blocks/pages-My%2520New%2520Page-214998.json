@@ -1,0 +1,57 @@
+{
+  "name": "PDP",
+  "path": "/pdp",
+  "sections": [
+    {
+      "__resolveType": "site/sections/Header.tsx",
+      "navLinks": [
+        {
+          "title": "Home",
+          "href": "/"
+        },
+        {
+          "title": "PDP",
+          "href": "/pdp"
+        },
+        {
+          "title": "Contato",
+          "href": "/contact"
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/ItWorks.tsx"
+    },
+    {
+      "__resolveType": "site/sections/Footer.tsx",
+      "aboutLinks": [
+        {
+          "title": "Contato",
+          "href": "/contato"
+        },
+        {
+          "title": "Sobre nós",
+          "href": "/about"
+        }
+      ],
+      "socialLinks": [
+        {
+          "title": "WhatsApp",
+          "href": "/"
+        },
+        {
+          "title": "Facebook",
+          "href": "/"
+        },
+        {
+          "title": "Instagram",
+          "href": "/"
+        }
+      ]
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}
