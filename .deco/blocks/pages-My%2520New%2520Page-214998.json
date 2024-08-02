@@ -3,7 +3,7 @@
   "path": "/pdp",
   "sections": [
     {
-      "__resolveType": "site/sections/Header_section.tsx",
+      "__resolveType": "site/sections/Header.tsx",
       "navLinks": [
         {
           "title": "Home",
