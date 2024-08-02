@@ -54,5 +54,9 @@
   "/.deco/blocks/OpenGraph.json": {
     "blockType": "sections",
     "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "/.deco/blocks/My%20Block.json": {
+    "blockType": "sections",
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
   }
 }

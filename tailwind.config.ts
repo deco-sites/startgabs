@@ -9,6 +9,8 @@ export default {
     extend: {
       height: {
         '1500': '1500px',
+        'full-header': 'calc(100% - 56px)',
+        'full+header': 'calc(100vh + 56px)'
       },
       transform: {
         'header-hidden': 'translateY(-100%)',

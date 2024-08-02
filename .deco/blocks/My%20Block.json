@@ -1,0 +1,9 @@
+{
+  "__resolveType": "website/sections/Seo/SeoV2.tsx",
+  "titleTemplate": "%s",
+  "descriptionTemplate": "%s",
+  "type": "website",
+  "jsonLDs": [
+    {}
+  ]
+}
